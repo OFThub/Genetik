@@ -1,0 +1,2 @@
+Programda txt dosyalarının düzgün çalışabilmesi için VS Code da terminal üzerinde çalışacaksa olduğu konumda kalması, eğer bin dosyasının içindeki exe dosyası ile çalışacaksa
+Dna.txt ve Islemler.txt dosyalarının bin dosyasının içine alınması gerekir.
